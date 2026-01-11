@@ -1,6 +1,6 @@
 # Top 10 No-Code Solana Token Creators (2026)
 
-<img align=right height="1280" width="720" src="https://d2mvinf9iwjhzq.cloudfront.net/public_images/top-10-solana-token-creators.png">
+![Top 10 No-Code Solana Token Creators](https://d2mvinf9iwjhzq.cloudfront.net/public_images/top-10-solana-token-creators.png)
 
 ## Quick Comparison
 
